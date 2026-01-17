@@ -1,0 +1,8 @@
+{
+  "name": "AtomRender - SketchUp to Reality",
+  "description": "เปลี่ยนภาพร่างจาก SketchUp เป็นภาพเรนเดอร์สมจริงระดับ 4K ด้วย AI อัจฉริยะ",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
